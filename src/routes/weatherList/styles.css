@@ -1,0 +1,27 @@
+.weather-list {
+  width: auto;
+}
+
+.weather-banner {
+  width: auto;
+}
+
+.weather-content {
+  display: flex;
+  width: auto;
+  margin: 0 50px;
+  flex-direction: column;
+}
+
+.weather-title {
+  margin: 5px 0px;
+  text-align: left;
+}
+
+.temperature-section {
+  margin-top: 10px;
+}
+
+.info-section {
+  display: flex;
+}
