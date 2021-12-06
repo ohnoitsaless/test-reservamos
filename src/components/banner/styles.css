@@ -1,0 +1,12 @@
+.banner {
+  background-position: center;
+  background-image: url("../../assets/reservamos-banner.png");
+  height: 200px;
+  width: auto;
+  background-size: contain;
+  background-repeat: repeat;
+}
+
+h2 {
+  margin: 20px 50px;
+}
